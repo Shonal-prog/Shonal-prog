@@ -5,7 +5,6 @@
 💻 Passionate about building AI-powered applications, full-stack web solutions, and data-driven products that solve real-world problems.
 
 🚀 Currently exploring:
-- Full-Stack Development (MERN)
 - Machine Learning & Generative AI
 - AI Agents & Intelligent Automation
 
